@@ -1,0 +1,24 @@
+Thank you for purchasing the Mass Follow Script! 
+
+It is very simple to setup.
+
+How to setup:
+1) Open the logo.psd in the readme folder and edit it.
+2) Save the image as logo.png in the assets/img folder.
+3) Edit the FAQ and Contact.
+4) Upload all the files except the readme folder to your server *Note: Make sure your server has cURL enabled*
+5) Enjoy the script!
+
+How to setup cURL:
+1) Login as root on your server
+2) Run this command:
+apt-get install curl
+3) Restart apache
+
+Enjoy the source! If you need any help, add me on XMPP or PM me on HF.
+
+HF Profile:
+http://www.hackforums.net/member.php?action=profile&uid=2227376
+
+XMPP:
+kasual@exploit.im
